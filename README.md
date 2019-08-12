@@ -1,6 +1,6 @@
 ## C4SF Todo Project
 
-![CoveoTodoList](coveotodos.png)
+![CoveoTodoList](coveotodos.PNG)
 
 The Coveo for Salesforce Todo Project is a step by step guide for developers to get started with the Coveo JSUI Framework, Coveo for Salesforce integration package, Source Indexing and the overall Coveo tech stack when integrating.
 
