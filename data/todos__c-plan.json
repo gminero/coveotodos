@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "todos__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "todos__cs.json"
+        ]
+    }
+]
